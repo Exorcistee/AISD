@@ -1,0 +1,15 @@
+Player_1 100
+.Player_1 100
+..Player_1 100
+...Player_1 100
+...Player_5 90
+..Player_3 80
+...Player_3 80
+...Player_6 75 
+.Player_2 5
+..Player_2 5
+...Player_2 5
+...Player_7 50
+..Player_4 30
+...Player_4 30
+...Player_8 70

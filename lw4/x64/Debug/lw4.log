@@ -1,0 +1,5 @@
+﻿  lw4.cpp
+C:\aisd\AISD\lw4\lw4.cpp(16,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\aisd\AISD\lw4\lw4.cpp(26,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\aisd\AISD\lw4\lw4.cpp(43,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  lw4.vcxproj -> C:\aisd\AISD\lw4\x64\Debug\lw4.exe
